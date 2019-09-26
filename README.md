@@ -1,2 +1,2 @@
-# git-pedidos
+# pedidos
 mi primer proyecto git
