@@ -1,5 +1,5 @@
 <?php
-
+// lo logreeee 
 //start sesion
 $curl = curl_init();
 
